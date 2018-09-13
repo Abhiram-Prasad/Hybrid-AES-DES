@@ -1,0 +1,16 @@
+SOFTWARE REQUIREMENTS SPECIFICATION
+
+Hardware requirements
+
+1 A 32/64 bit system with a minimum of 4 GB RAM
+2 1GHz or faster processor
+3 800X600 minimum monitor resolution
+4 150MB hard drive space 
+
+Software requirements
+
+1 Operating system: A computer with Windows or Linux operating system is necessary to
+execute the developed application.
+2 GCC: The algorithm is coded in C programming language which requires the GCC
+compiler for execution
+3 Standard C library: The algorithm uses many functions from the standard C library
